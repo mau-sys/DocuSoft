@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Proyectos/DocuSoft/src/com/docusoft/entidad/Documento.java</file>
+            <file>file:/D:/Proyectos/DocuSoft/src/com/docusoft/estrategia/IEstrategiaDeBusqueda.java</file>
+            <file>file:/D:/Proyectos/DocuSoft/src/com/docusoft/estrategia/EstrategiaDeBusquedaAvanzada.java</file>
+            <file>file:/D:/Proyectos/DocuSoft/src/com/docusoft/repositorio/CatalogoDeDocumentos.java</file>
+            <file>file:/D:/Proyectos/DocuSoft/src/com/docusoft/presentacion/VentanaConsultarDocumentos.java</file>
+            <file>file:/D:/Proyectos/DocuSoft/src/com/docusoft/entidad/Pagina.java</file>
+            <file>file:/D:/Proyectos/DocuSoft/src/com/docusoft/estrategia/EstrategiaDeBusquedaBasica.java</file>
+            <file>file:/D:/Proyectos/DocuSoft/src/com/docusoft/entidad/Capitulo.java</file>
+        </group>
+    </open-files>
+</project-private>
